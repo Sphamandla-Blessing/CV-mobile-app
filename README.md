@@ -1,17 +1,53 @@
-# dlamini_sphamandla_902014129
+# CV Mobile App - Flutter
 
-A new Flutter project.
+A clean and modern mobile CV / Portfolio app built with Flutter. It showcases my profile, skills, education, and projects in a mobile-friendly format.
 
-## Getting Started
+This is part of my portfolio: **Sphamandla Blessing Dlamini**
 
-This project is a starting point for a Flutter application.
+### 🔗 Live Repositories
+- CV Mobile App: `CV-mobile-app`
+- Student Voting System: `student-voting-system`
 
-A few resources to get you started if this is your first Flutter project:
+### ✨ Features
+- Personal profile with photo
+- Skills and tech stack section
+- Education and experience timeline
+- Projects showcase (with links to GitHub)
+- Contact section
+- Responsive design for Android & iOS
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 🛠️ Tech Stack
+- **Flutter** 3.x
+- **Dart**
+- Material Design 3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📁 Folder Structure
+- `lib/` - Main Dart code
+- `assets/` - Images, icons, fonts
+- `android/`, `ios/`, `web/`, `windows/`, `linux/`, `macos/` - Platform specific files
+
+### 🚀 How to Run Locally
+1. Clone the repo:
+   git clone https://github.com/Sphamandla-Blessing/CV-mobile-app.git
+
+2. Go to folder:
+   cd CV-mobile-app
+
+3. Get packages:
+   flutter pub get
+
+4. Run the app:
+   flutter run
+
+### 📱 Build APK
+   flutter build apk --release
+
+APK will be in `build/app/outputs/flutter-apk/app-release.apk`
+
+### 👨‍💻 Author
+**Sphamandla Blessing Dlamini**
+- GitHub: @Sphamandla-Blessing
+- LinkedIn: [Your LinkedIn link here]
+
+### 📄 License
+This project is open source and available under the MIT License.
